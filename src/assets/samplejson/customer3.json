@@ -1,0 +1,12 @@
+{
+	"id": 3,
+	"name": "Mayur Chaudhari",
+	"email": "mcmachaudhari@test.com",
+	"phone": "123412345",
+	"city": "Coimbatore",
+	"state": "Tamil Nadu",
+	"country": "India",
+	"organization": "Infosys",
+	"jobProfile": "Software Developer",
+	"additionalInfo": "Buys Lots of Products in general"
+}

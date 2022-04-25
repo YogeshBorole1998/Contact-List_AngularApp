@@ -1,0 +1,16 @@
+[{
+	"id": 1,
+	"name": "Nishant Firake",
+	"email": "ncfirake@test.com",
+	"phone": "123456789"
+}, {
+	"id": 2, 
+	"name": "Yogesh Borole",
+	"email": "borole116@test.com",
+	"phone": "7620510652"
+}, {
+	"id": 3,
+	"name": "Mayur Chaudhari",
+	"email": "machaudhari@test.com",
+	"phone": "987654321"
+}]
